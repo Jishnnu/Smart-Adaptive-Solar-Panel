@@ -1,0 +1,28 @@
+ARDUINO UNO  
+Connected to the host device (computer) using Power Cable 
+ 
+SERVO MOTOR
+Positive Wire of servo motor to 5V of Arduino 
+Ground of servo motor to Ground of Arduino 
+Signal Wire of servo motor to Digital pin 9 of Arduino  
+
+TEMPERATURE SENSOR
+Positive terminal of LM35 to  5V of Arduino 
+Signal / Out terminal of LM35 to A0 of Arduino 
+Ground of LM35 Ground of Arduino 
+
+
+LIGHT DEPENDENT RESISTOR (LDR x 2) 
+LDR1                                                                                                                    
+One end of LDR  
+10K Resistor 
+Same end A1 of Arduino 
+10K Resistor to GND of Arduino 
+Other End of LDR to 5V of Arduino 
+
+LDR2                                                                                                                    
+One end of LDR  
+10K Resistor 
+Same end A2 of Arduino 
+10K Resistor to GND of Arduino 
+Other End of LDR to 5V of Arduino 

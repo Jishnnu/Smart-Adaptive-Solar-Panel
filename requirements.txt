@@ -1,0 +1,8 @@
+Servo Motor (SG90) 
+Solar panel 
+Arduino Uno 
+LM35 Temperature Sensor 
+LDR’s X 2 (Light Dependent Resistor) 
+10K resistors x 2 
+Battery (6 to 12V) 
+Jumper wires 
